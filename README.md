@@ -1,2 +1,2 @@
 # disorder
-Site vistrine de disorder
+Site vitrine de disorder
